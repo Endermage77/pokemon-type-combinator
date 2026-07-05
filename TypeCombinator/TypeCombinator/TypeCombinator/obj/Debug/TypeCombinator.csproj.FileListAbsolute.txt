@@ -1,0 +1,14 @@
+D:\E\Game Creation\Coding Stuff\TypeCombinator\TypeCombinator\TypeCombinator\bin\Debug\TypeCombinator.exe.config
+D:\E\Game Creation\Coding Stuff\TypeCombinator\TypeCombinator\TypeCombinator\bin\Debug\TypeCombinator.exe
+D:\E\Game Creation\Coding Stuff\TypeCombinator\TypeCombinator\TypeCombinator\bin\Debug\TypeCombinator.pdb
+D:\E\Game Creation\Coding Stuff\TypeCombinator\TypeCombinator\TypeCombinator\obj\Debug\TypeCombinator.csprojAssemblyReference.cache
+D:\E\Game Creation\Coding Stuff\TypeCombinator\TypeCombinator\TypeCombinator\obj\Debug\TypeCombinator.csproj.CoreCompileInputs.cache
+D:\E\Game Creation\Coding Stuff\TypeCombinator\TypeCombinator\TypeCombinator\obj\Debug\TypeCombinator.exe
+D:\E\Game Creation\Coding Stuff\TypeCombinator\TypeCombinator\TypeCombinator\obj\Debug\TypeCombinator.pdb
+F:\E\Coding Stuff\Old Programs\TypeCombinator\TypeCombinator\TypeCombinator\bin\Debug\TypeCombinator.exe.config
+F:\E\Coding Stuff\Old Programs\TypeCombinator\TypeCombinator\TypeCombinator\bin\Debug\TypeCombinator.exe
+F:\E\Coding Stuff\Old Programs\TypeCombinator\TypeCombinator\TypeCombinator\bin\Debug\TypeCombinator.pdb
+F:\E\Coding Stuff\Old Programs\TypeCombinator\TypeCombinator\TypeCombinator\obj\Debug\TypeCombinator.csproj.AssemblyReference.cache
+F:\E\Coding Stuff\Old Programs\TypeCombinator\TypeCombinator\TypeCombinator\obj\Debug\TypeCombinator.csproj.CoreCompileInputs.cache
+F:\E\Coding Stuff\Old Programs\TypeCombinator\TypeCombinator\TypeCombinator\obj\Debug\TypeCombinator.exe
+F:\E\Coding Stuff\Old Programs\TypeCombinator\TypeCombinator\TypeCombinator\obj\Debug\TypeCombinator.pdb
